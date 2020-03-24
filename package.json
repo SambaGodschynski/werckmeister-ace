@@ -1,8 +1,8 @@
 {
-    "name": "ace",
-    "description": "Ajax.org Code Editor is a full featured source code highlighting editor that powers the Cloud9 IDE",
+    "name": "werckmeister-ace",
+    "description": "Ajax.org Code Editor used by the werckmeister vscode extension: https://github.com/SambaGodschynski/werckmeister-codext",
     "version": "1.4.3",
-    "homepage": "http://github.com/ajaxorg/ace",
+    "homepage": "https://github.com/SambaGodschynski/werckmeister-ace",
     "engines": {
         "node": ">= 0.6.0"
     },
